@@ -1,0 +1,76 @@
+Video only:
+- Videos like this one will be released before each live lecture and will cover
+  all of the content in the live lecture.
+- There are a lot of students enrolled. Instead of coming to live lecture, you
+  might choose to watch these videos instead.
+- About these lecture videos:
+- Lectures aren't such a bad way for one person to explain something to someone
+  else, but they aren't perfect. They can be too slow for some people, too fast
+  for others. Sometimes you're listening to a lecture and you stop paying
+  attention for just a moment and you miss something important, and it's hard to
+  follow anything after that.
+
+- Videos fix a lot of these problems.
+  - You can pause, you can rewind, you can pick how fast I talk
+  - You could even pause, ask a question on Piazza, wait for someone to
+    answer it in a minute or two, then continue the video.
+  - Everything we plan to say in live lecture, I will also say in the videos
+  - Not every video is recorded fresh each semester, but whenever we update the
+    course content, even a little bit, I record a new video.
+- So, do you ever need to come to lecture? No. You can just watch videos.
+- Does everyone watch the videos? No. Maybe 70%.
+- It's not a bad idea to come to lecture once or twice to see if you like it.
+  Some students prefer the live experience. If none of you come, it'll be weird
+- If you are going to come to the first lecture, you should stop watching this
+  video now. Everything I say from here on out, I will also say in live lecture.
+
+Live lecture:
+- What is computer science?
+  - The study of what can be done using the most flexible machine ever invented:
+    the computing machine
+  - Computer scientists from all sub-fields are united by a common enemy:
+    complexity. Each area involves creating and reasoning about complex programs.
+    Our primary focus in this course is to manage the complexity of programs.
+
+- What is 61A?
+  - Abstraction is a subtle concept: It's the process of taking a complex thing,
+    giving it a name, and treating it as a whole without worrying about its
+    details.  You're good at abstraction already: You look at me, you see a
+    person.  In fact, what you see is a bunch of cotton, skin, bones, organs,
+    mostly water really.. oxygen, carbon, hydrogen in various configurations.
+    Personhood is a useful conceptual abstraction for this vastly complex system
+    that I am.  You can think about what to call me, or where I live, without
+    worrying about exactly how many oxygen atoms I contain.
+  - We need a programming language; this class uses Python 3
+    - How many of you have programmed in Python before?
+    - We introduce Python at a glacial pace... one feature at a time (slow)
+    - If you don't know Python, you're _not_ at a huge disadvantage.
+    - A lot of programmers use trial and error; we'll understand how Python works
+
+- Should you be here?
+  - CS 61A is challenging, and I assume that most of you have programmed before.
+    - 30% say that they don't know how to program before taking CS 61A
+    - About 11% of these students who stayed in the course think they should
+      have been prevented from enrolling
+  - This course is really designed for CS majors, but teaches you ideas that
+    are useful in most other disciplines.
+
+- Course Policies
+  - Learning: The purpose of this course is to learn something you don't already know.
+              You should never feel bad for not understanding.
+              I won't tolerate disrespectful or condescending comments.
+              If someone doesn't understand something, help them out.
+  - Community: You're encouraged to help each other;
+               We do keep track of the most helpful students
+               One of the most important things you can learn in college is how to explain
+  - Course Staff: We are here to help you succeed. We're not hear to judge you.
+                  We know that you're talented b/c you're at Berkeley
+                  We know that you're able to work hard, and we're here to make sure
+                  that working hard leads to the results you want.
+  - Collaboration
+    - You should talk to each other about every assignment
+    - When you have a partner, that partner is your responsibility!  Learn together
+    - We have had problems with copying solutions.  We know that because we
+      catch people who copies solutions.  Don't do that!
+    - Out there in the world, there are lots of people to discuss with, but there
+      are no answers to copy because you'll be working on something new
